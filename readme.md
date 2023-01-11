@@ -10,3 +10,5 @@
 * push edits back to gh!  
   `git push`
   
+  *Thank you my king Professor Tommet
+  
